@@ -1,2 +1,0 @@
-# prak-pbo
-Praktikum PBO
