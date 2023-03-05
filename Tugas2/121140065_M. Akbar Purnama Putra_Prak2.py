@@ -5,12 +5,12 @@ class Mahasiswa:
         self.kelas = kelas
         self.sks = sks
     def tampil_mahasiswa(self):
-        print("Akbar")
+        print("M. Akbar Purnama Putra")
         print("121140065")
         print("RB")
         print("20")
 
-Mahasiswa = Mahasiswa("Akbar", 121140065, "RB", 20)
+Mahasiswa = Mahasiswa("M. Akbar Purnama Putra", 121140065, "RB", 20)
 Mahasiswa.tampil_mahasiswa()
 
    
