@@ -1,7 +1,7 @@
 # Nama  : M. Akbar Purnama Putra
 # NIM   : 121140065
 # Kelas : RB
-# None  : 1
+# No    : 1
 
 class Komputer:
     def __init__(self, nama, jenis, harga, merk):
