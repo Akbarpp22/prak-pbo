@@ -1,3 +1,6 @@
+# Nama  : M. Akbar Purnama Putra
+# NIM   : 121140065
+
 import tkinter as tk
 from tkinter import messagebox
 import random
